@@ -154,5 +154,3 @@ examples/      两个消费项目的 HTTP 接入脚本
 tests/         数据、损失掩码、评估、API 和适配契约测试
 docs/          标注、训练、评估和接入说明
 ```
-
-实现参考了 [qlora-llm-fine-tuning](https://github.com/Debasish-87/qlora-llm-fine-tuning) 的任务方向，项目代码按 RouteMind 契约重新组织。来源说明见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
